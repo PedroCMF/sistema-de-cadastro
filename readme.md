@@ -3,7 +3,7 @@ Status do projeto: Em desenvolvimento
 
 Para rodar o projeto, você precisa instalar o programa na sua máquina:
 
-" visual studio da Microsoft "
+"Install node js "
 
 
 Tópicos
